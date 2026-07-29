@@ -1,6 +1,6 @@
 # 老金—招商画像分析 (Franchise Prospect Profiling)
 
-> v4.1.2 | MIT License
+> v4.1.3 | MIT License
 
 一个面向招商团队的通用 AI 技能（Skill），帮助招商人员快速评估潜在加盟商的合作意愿、落地准备度和决策可达性。只需用自然语言描述客户情况，即可获得结构化的十维度评估、四轴判断、跟进优先级和可执行的行动计划。
 
@@ -122,7 +122,7 @@
 
 ## 版本
 
-当前版本：v4.1.2。详见 [CHANGELOG.md](CHANGELOG.md)。
+当前版本：v4.1.3。详见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 许可
 
